@@ -8,6 +8,8 @@ body{
     font-size: 16px;
     color: white;
 }
+
+/*************HEADEAR************/
 nav{
     background-color: #333333;
     padding: 5px;
@@ -27,6 +29,8 @@ nav a img{
     width: 70px;
     padding: 0;
 }
+
+/**********************MAIN******************/
 #kho{
     background-color: black;
     padding:20px  33%;
@@ -52,4 +56,44 @@ div p{
     border-radius: 5px;
     font-weight: bold;
     margin-bottom: 20px;
+}
+#blank-para{
+    color: white;
+    padding: 15px;
+}
+#buy-product{
+    background-color: #f1f1f1;
+    color: black;
+}
+#buy-product h2{
+    text-align: center;
+    
+}
+div h2{
+    font-size: 40px;
+}
+#enter-number{
+    text-align: center;
+}
+#confirm-number{
+    padding-left: 280px;
+}
+.product-class{
+    color: black;
+    font-weight: normal;
+    font-size: 20px;
+    position: relative;
+}
+#second-number{
+    margin-bottom: 10px;
+}
+main div form{
+    position: relative;
+    left: 20.8%;
+}
+#next-btn{
+    padding: 10px 15px;
+    margin-left: 50%;
+    background-color: #d89b02;
+    border-radius: 2px;
 }
