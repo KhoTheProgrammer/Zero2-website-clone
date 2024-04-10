@@ -1,53 +1,66 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
     color: white;
 }
 
 /*************HEADEAR************/
-nav{
+nav {
     background-color: #333333;
     padding: 5px;
     width: 100%;
 }
-nav a{
+
+nav a {
     text-decoration: none;
     color: white;
 }
-nav a span{
-    padding:0 100px 0 100px;
+
+nav a span {
+    padding: 0 100px 0 100px;
 }
-#log{
+
+#log {
     float: riht;
 }
-nav a img{
+
+nav a img {
     width: 70px;
     padding: 0;
 }
 
 /**********************MAIN******************/
-#kho{
-    background-color: black;
-    padding:20px  33%;
+main {
+    color: black;
 }
-#free{
+
+#kho {
+    background-color: black;
+    padding: 20px 33%;
+}
+
+#free {
     color: #d89b02;
     font-size: 53px;
     font-weight: bold;
 }
-div p{
+
+div p {
     color: #d89b02;
     font-size: 40px;
 }
-#internet{
+
+#internet {
     font-size: 42px;
 }
-#bundle{
+
+#bundle {
     background-color: #d89b02;
     color: black;
     font-size: 16px;
@@ -57,41 +70,37 @@ div p{
     font-weight: bold;
     margin-bottom: 20px;
 }
-#blank-para{
+
+.blank-para {
     color: white;
     padding: 15px;
 }
-#buy-product{
+
+.features {
     background-color: #f1f1f1;
     color: black;
+    padding-bottom: 15px;
 }
-#buy-product h2{
+
+.features h2 {
     text-align: center;
-    
-}
-div h2{
     font-size: 40px;
 }
-#enter-number{
-    text-align: center;
-}
-#confirm-number{
-    padding-left: 280px;
-}
-.product-class{
+
+.product-class {
     color: black;
     font-weight: normal;
     font-size: 20px;
     position: relative;
+    padding-left: 280px;
 }
-#second-number{
-    margin-bottom: 10px;
-}
-main div form{
+
+main div form {
     position: relative;
     left: 20.8%;
 }
-#next-btn{
+
+.next-btn {
     padding: 10px 15px;
     margin-left: 50%;
     background-color: #d89b02;
