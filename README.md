@@ -5,7 +5,7 @@ This project is a clone of the Zero2 company website, created for learning and p
 To view the clone locally, follow these steps:
 
 Clone the repository to your local machine:
-git clone https://github.com/your-username/zero2-website-clone.git
+git clone https://github.com/KhoTheProgrammer/zero2-website-clone.git
 Navigate to the project directory:
 cd zero2-website-clone
 Open the index.html file in your web browser to view the cloned website.
